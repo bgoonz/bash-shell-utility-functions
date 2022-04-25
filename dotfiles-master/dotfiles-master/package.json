@@ -3,7 +3,7 @@
   "devDependencies": {
     "eslint": "7.25.0",
     "eslint-config-google": "^0.13.0",
-    "eslint-config-kentcdodds": "^14.3.4",
+    "eslint-config-kentcdodds": "20.2.0",
     "eslint-config-xo": "^0.26.0",
     "eslint-plugin-eslint-comments": "^3.1.2",
     "eslint-plugin-import": "^2.2.0",
